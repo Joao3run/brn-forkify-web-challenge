@@ -14,7 +14,7 @@ Você está livre para usar React, Vue ou Angular 8+ no desenvolvimento da solu�
 
 ## Case
 
-Vamos dar uma olhada na numas receitas? A meta é criarmos um aplicativo de pesquisa de receitas, que consuma a API Forkify (https://forkify-api.herokuapp.com). O layout final deverá fica por sua conta, mas temos um exemplo para guiá-lo.
+Vamos dar uma olhada em algumas receitas? A meta é criarmos um aplicativo de pesquisa de receitas, que consuma a API Forkify (https://forkify-api.herokuapp.com). O layout final deverá fica por sua conta, mas temos um exemplo para guiá-lo.
 
 ![View mock](assets/view.png)
 
